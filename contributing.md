@@ -1,0 +1,3 @@
+# Contributing
+
+Thanks for considering adding your great ideas to this project! We love any improvements you can bring to ZincPass. When contributing, please make your own fork of this repository and create pull-requests to have your code considered for adition with the main branch. Please ensure that all of your contributions follow the guidelines laid out in *CODE_OF_CONDUCT.md*. Happy programming!
