@@ -32,7 +32,7 @@
 *.app
 
 #VS code configs
-.vscode
+*.vscode
 
 #build directories
 builddir
