@@ -1,8 +1,4 @@
- #include <iostream>
- #include <string>
+#include <iostream>
+#include <string>
 
- void findAcct(std::string const &username)
- {
-    
- }
-
+void findAcct(std::string const &username) {}

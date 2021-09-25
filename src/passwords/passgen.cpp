@@ -1,4 +1,1 @@
-int filler()
-{
-    return 0;
-}
+int filler() { return 0; }
